@@ -1,0 +1,9 @@
+C:\Users\Muhammad Fajriansyah\source\repos\logfuz_fuzzySet\logfuz_fuzzySet\bin\Release\logfuz_fuzzySet.exe.config
+C:\Users\Muhammad Fajriansyah\source\repos\logfuz_fuzzySet\logfuz_fuzzySet\bin\Release\logfuz_fuzzySet.exe
+C:\Users\Muhammad Fajriansyah\source\repos\logfuz_fuzzySet\logfuz_fuzzySet\bin\Release\logfuz_fuzzySet.pdb
+C:\Users\Muhammad Fajriansyah\source\repos\logfuz_fuzzySet\logfuz_fuzzySet\obj\Release\logfuz_fuzzySet.Form1.resources
+C:\Users\Muhammad Fajriansyah\source\repos\logfuz_fuzzySet\logfuz_fuzzySet\obj\Release\logfuz_fuzzySet.Properties.Resources.resources
+C:\Users\Muhammad Fajriansyah\source\repos\logfuz_fuzzySet\logfuz_fuzzySet\obj\Release\logfuz_fuzzySet.csproj.GenerateResource.cache
+C:\Users\Muhammad Fajriansyah\source\repos\logfuz_fuzzySet\logfuz_fuzzySet\obj\Release\logfuz_fuzzySet.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Fajriansyah\source\repos\logfuz_fuzzySet\logfuz_fuzzySet\obj\Release\logfuz_fuzzySet.exe
+C:\Users\Muhammad Fajriansyah\source\repos\logfuz_fuzzySet\logfuz_fuzzySet\obj\Release\logfuz_fuzzySet.pdb

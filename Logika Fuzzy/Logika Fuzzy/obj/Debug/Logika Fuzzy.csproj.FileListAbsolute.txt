@@ -1,0 +1,17 @@
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\Logika Fuzzy\Logika Fuzzy\bin\Debug\Logika Fuzzy.exe.config
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\Logika Fuzzy\Logika Fuzzy\bin\Debug\Logika Fuzzy.exe
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\Logika Fuzzy\Logika Fuzzy\bin\Debug\Logika Fuzzy.pdb
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\Logika Fuzzy\Logika Fuzzy\obj\Debug\Logika Fuzzy.csprojAssemblyReference.cache
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\Logika Fuzzy\Logika Fuzzy\obj\Debug\Logika_Fuzzy.Form1.resources
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\Logika Fuzzy\Logika Fuzzy\obj\Debug\Logika_Fuzzy.Properties.Resources.resources
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\Logika Fuzzy\Logika Fuzzy\obj\Debug\Logika Fuzzy.csproj.GenerateResource.cache
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\Logika Fuzzy\Logika Fuzzy\obj\Debug\Logika Fuzzy.csproj.CoreCompileInputs.cache
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\Logika Fuzzy\Logika Fuzzy\obj\Debug\Logika Fuzzy.exe
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\Logika Fuzzy\Logika Fuzzy\obj\Debug\Logika Fuzzy.pdb
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\Logika Fuzzy\Logika Fuzzy\bin\Debug\OxyPlot.dll
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\Logika Fuzzy\Logika Fuzzy\bin\Debug\OxyPlot.pdb
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\Logika Fuzzy\Logika Fuzzy\bin\Debug\OxyPlot.xml
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\Logika Fuzzy\Logika Fuzzy\obj\Debug\Logika Fuzzy.csproj.CopyComplete
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\Logika Fuzzy\Logika Fuzzy\bin\Debug\OxyPlot.WindowsForms.dll
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\Logika Fuzzy\Logika Fuzzy\bin\Debug\OxyPlot.WindowsForms.pdb
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\Logika Fuzzy\Logika Fuzzy\bin\Debug\OxyPlot.WindowsForms.xml

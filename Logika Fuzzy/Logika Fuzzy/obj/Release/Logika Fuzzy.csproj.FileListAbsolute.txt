@@ -1,0 +1,19 @@
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\Logika Fuzzy\Logika Fuzzy\bin\Release\Logika Fuzzy.exe.config
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\Logika Fuzzy\Logika Fuzzy\bin\Release\Logika Fuzzy.exe
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\Logika Fuzzy\Logika Fuzzy\bin\Release\Logika Fuzzy.pdb
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\Logika Fuzzy\Logika Fuzzy\bin\Release\OxyPlot.dll
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\Logika Fuzzy\Logika Fuzzy\bin\Release\OxyPlot.WindowsForms.dll
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\Logika Fuzzy\Logika Fuzzy\bin\Release\OxyPlot.pdb
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\Logika Fuzzy\Logika Fuzzy\bin\Release\OxyPlot.xml
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\Logika Fuzzy\Logika Fuzzy\bin\Release\OxyPlot.WindowsForms.pdb
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\Logika Fuzzy\Logika Fuzzy\bin\Release\OxyPlot.WindowsForms.xml
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\Logika Fuzzy\Logika Fuzzy\obj\Release\Logika Fuzzy.csprojAssemblyReference.cache
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\Logika Fuzzy\Logika Fuzzy\obj\Release\Logika_Fuzzy.Form1.resources
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\Logika Fuzzy\Logika Fuzzy\obj\Release\Logika_Fuzzy.Contoh.resources
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\Logika Fuzzy\Logika Fuzzy\obj\Release\Logika_Fuzzy.Contoh1.resources
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\Logika Fuzzy\Logika Fuzzy\obj\Release\Logika_Fuzzy.Properties.Resources.resources
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\Logika Fuzzy\Logika Fuzzy\obj\Release\Logika Fuzzy.csproj.GenerateResource.cache
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\Logika Fuzzy\Logika Fuzzy\obj\Release\Logika Fuzzy.csproj.CoreCompileInputs.cache
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\Logika Fuzzy\Logika Fuzzy\obj\Release\Logika Fuzzy.csproj.CopyComplete
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\Logika Fuzzy\Logika Fuzzy\obj\Release\Logika Fuzzy.exe
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\Logika Fuzzy\Logika Fuzzy\obj\Release\Logika Fuzzy.pdb

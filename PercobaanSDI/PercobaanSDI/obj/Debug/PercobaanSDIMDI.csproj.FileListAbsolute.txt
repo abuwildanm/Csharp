@@ -1,0 +1,14 @@
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\PercobaanSDI\PercobaanSDI\bin\Debug\PercobaanSDI.exe.config
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\PercobaanSDI\PercobaanSDI\bin\Debug\PercobaanSDI.exe
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\PercobaanSDI\PercobaanSDI\bin\Debug\PercobaanSDI.pdb
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\PercobaanSDI\PercobaanSDI\obj\Debug\PercobaanSDIMDI.csprojAssemblyReference.cache
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\PercobaanSDI\PercobaanSDI\obj\Debug\PercobaanSDI.Properties.Resources.resources
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\PercobaanSDI\PercobaanSDI\obj\Debug\PercobaanSDIMDI.csproj.GenerateResource.cache
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\PercobaanSDI\PercobaanSDI\obj\Debug\PercobaanSDIMDI.csproj.CoreCompileInputs.cache
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\PercobaanSDI\PercobaanSDI\obj\Debug\PercobaanSDI.exe
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\PercobaanSDI\PercobaanSDI\obj\Debug\PercobaanSDI.pdb
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\PercobaanSDI\PercobaanSDI\obj\Debug\PercobaanSDI.FormUtama.resources
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\PercobaanSDI\PercobaanSDI\obj\Debug\PercobaanSDI.Form1.resources
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\PercobaanSDI\PercobaanSDI\obj\Debug\PercobaanSDI.Form2.resources
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\PercobaanSDI\PercobaanSDI\obj\Debug\PercobaanSDI.Form3.resources
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\PercobaanSDI\PercobaanSDI\obj\Debug\PercobaanSDI.Form4.resources

@@ -1,0 +1,16 @@
+C:\Users\Muhammad Fajriansyah\source\repos\logfuz_fuzzySet\logfuz_fuzzySet\bin\Debug\logfuz_fuzzySet.exe.config
+C:\Users\Muhammad Fajriansyah\source\repos\logfuz_fuzzySet\logfuz_fuzzySet\bin\Debug\logfuz_fuzzySet.exe
+C:\Users\Muhammad Fajriansyah\source\repos\logfuz_fuzzySet\logfuz_fuzzySet\bin\Debug\logfuz_fuzzySet.pdb
+C:\Users\Muhammad Fajriansyah\source\repos\logfuz_fuzzySet\logfuz_fuzzySet\obj\Debug\logfuz_fuzzySet.csprojAssemblyReference.cache
+C:\Users\Muhammad Fajriansyah\source\repos\logfuz_fuzzySet\logfuz_fuzzySet\obj\Debug\logfuz_fuzzySet.Form1.resources
+C:\Users\Muhammad Fajriansyah\source\repos\logfuz_fuzzySet\logfuz_fuzzySet\obj\Debug\logfuz_fuzzySet.Properties.Resources.resources
+C:\Users\Muhammad Fajriansyah\source\repos\logfuz_fuzzySet\logfuz_fuzzySet\obj\Debug\logfuz_fuzzySet.csproj.GenerateResource.cache
+C:\Users\Muhammad Fajriansyah\source\repos\logfuz_fuzzySet\logfuz_fuzzySet\obj\Debug\logfuz_fuzzySet.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Fajriansyah\source\repos\logfuz_fuzzySet\logfuz_fuzzySet\obj\Debug\logfuz_fuzzySet.exe
+C:\Users\Muhammad Fajriansyah\source\repos\logfuz_fuzzySet\logfuz_fuzzySet\obj\Debug\logfuz_fuzzySet.pdb
+C:\Users\Muhammad Fajriansyah\source\repos\logfuz_fuzzySet\logfuz_fuzzySet\obj\Debug\logfuz_fuzzySet.exe.config
+C:\Users\Muhammad Fajriansyah\source\repos\logfuz_fuzzySet\logfuz_fuzzySet\bin\Debug\BunifuDataViz.dll
+C:\Users\Muhammad Fajriansyah\source\repos\logfuz_fuzzySet\logfuz_fuzzySet\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Muhammad Fajriansyah\source\repos\logfuz_fuzzySet\logfuz_fuzzySet\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Muhammad Fajriansyah\source\repos\logfuz_fuzzySet\logfuz_fuzzySet\bin\Debug\Bunifu.Core.dll
+C:\Users\Muhammad Fajriansyah\source\repos\logfuz_fuzzySet\logfuz_fuzzySet\obj\Debug\logfuz_fuzzySet.csproj.CopyComplete

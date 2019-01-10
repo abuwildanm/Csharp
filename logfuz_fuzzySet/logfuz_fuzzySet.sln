@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "logfuz_fuzzySet", "logfuz_fuzzySet\logfuz_fuzzySet.csproj", "{AC131BD2-BF21-40DC-889A-02296B76B3DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logika Fuzzy", "D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\Logika Fuzzy\Logika Fuzzy\Logika Fuzzy.csproj", "{405C7953-6E4E-4FA5-B0F6-DCEFE19FDB27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC131BD2-BF21-40DC-889A-02296B76B3DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC131BD2-BF21-40DC-889A-02296B76B3DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC131BD2-BF21-40DC-889A-02296B76B3DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC131BD2-BF21-40DC-889A-02296B76B3DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{405C7953-6E4E-4FA5-B0F6-DCEFE19FDB27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{405C7953-6E4E-4FA5-B0F6-DCEFE19FDB27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{405C7953-6E4E-4FA5-B0F6-DCEFE19FDB27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{405C7953-6E4E-4FA5-B0F6-DCEFE19FDB27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB338445-951E-4AB1-BB5C-8796B5DF892C}
+	EndGlobalSection
+EndGlobal

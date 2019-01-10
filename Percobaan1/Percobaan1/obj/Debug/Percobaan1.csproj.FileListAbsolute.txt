@@ -1,0 +1,10 @@
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\Percobaan1\Percobaan1\bin\Debug\Percobaan1.exe.config
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\Percobaan1\Percobaan1\bin\Debug\Percobaan1.exe
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\Percobaan1\Percobaan1\bin\Debug\Percobaan1.pdb
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\Percobaan1\Percobaan1\obj\Debug\Percobaan1.csprojAssemblyReference.cache
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\Percobaan1\Percobaan1\obj\Debug\Percobaan1.Properties.Resources.resources
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\Percobaan1\Percobaan1\obj\Debug\Percobaan1.csproj.GenerateResource.cache
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\Percobaan1\Percobaan1\obj\Debug\Percobaan1.csproj.CoreCompileInputs.cache
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\Percobaan1\Percobaan1\obj\Debug\Percobaan1.exe
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\Percobaan1\Percobaan1\obj\Debug\Percobaan1.pdb
+D:\Unibraw\Materi Kuliah\MyProjects\VisualStudioProjects\C#\Percobaan1\Percobaan1\obj\Debug\Percobaan1.FormBiodata.resources
